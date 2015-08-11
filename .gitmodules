@@ -1,0 +1,3 @@
+[submodule "bookmarklets/Bookmarklet-Framework"]
+	path = bookmarklets/Bookmarklet-Framework
+	url = https://github.com/mbarany/Bookmarklet-Framework.git
